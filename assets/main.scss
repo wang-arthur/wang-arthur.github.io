@@ -3,10 +3,6 @@
 
 @import "minima";
 
-
-/*
- arthur test
-*/
 img + em {
   margin: auto;
   display: table;
@@ -14,4 +10,17 @@ img + em {
 
 img.icon {
   height: 12pt;
+}
+
+.cv-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%;
+  float: left;
+  embed {
+    width: 100%;
+    height: 100%;
+    left: 0;
+    position: absolute;
+  }
 }

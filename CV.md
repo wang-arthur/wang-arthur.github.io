@@ -4,4 +4,7 @@ title: "CV"
 permalink: /cv/
 ---
 
-Coming soon
+<div class="cv-container">
+  <embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url={{site.url}}/wang-cv-jan-21.pdf" />
+</div>
