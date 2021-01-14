@@ -14,12 +14,3 @@ Arthur Z. Wang, "[Situation, Occasion, Encounter: Claudia Rankine's _Citizen_ an
 
 ### Under Review
 Arthur Z. Wang, "The Game Theory of Sex," submitted to _American Literature_, special issue, "American Game Studies," ed. Patrick Jagoda and Jennifer Malkowski.
-
-### In Preparation
-Coming soon
-
-## Presentations
-Coming soon
-
-## Archives
-Coming soon
