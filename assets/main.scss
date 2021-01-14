@@ -3,6 +3,14 @@
 
 @import "minima";
 
+body {
+  background-color: whitesmoke;
+}
+
+.site-header, .site-footer {
+  background-color: #f0f0f0;
+}
+
 img + em {
   margin: auto;
   display: table;
