@@ -6,6 +6,3 @@ layout: home
 ---
 
 ![Photograph of Arthur Z. Wang](../images/Arthur%20Wang%20Photo.jpg)
-
-
-## Site In Progress
