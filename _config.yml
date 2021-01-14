@@ -16,7 +16,7 @@
 title: Arthur Z. Wang
 email: arthur.wang@yale.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Arthur Z. Wang is a PhD Candidate in English at Yale University, specializing in contemporary literature, feminist science and technology studies, and critical race studies.
+  Arthur Z. Wang is a PhD Candidate in English at Yale University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://arthurzwang.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: warthurw
