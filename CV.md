@@ -6,5 +6,5 @@ permalink: /cv/
 
 <div class="cv-container">
   <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url={{site.url}}/wang-cv-may-21.pdf" />
+viewer?embedded=true&url={{site.url}}/wang-cv-june-22.pdf" />
 </div>
